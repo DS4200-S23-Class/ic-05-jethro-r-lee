@@ -1,6 +1,7 @@
 // button function
 let clicks = 0;
 
+// updates the value for the number of times the button was clicked
 function buttonClicked() {
 	
 
