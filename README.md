@@ -1,7 +1,7 @@
 # ic-05
 ic-05 - Intro to JavaScript
 
-Link to GitHub Pages: `[insert your clickable hyperlink here]`
+Link to GitHub Pages: `[https://ds4200-s23-class.github.io/ic-05-jethro-r-lee/]`
 
 ## Purpose
 
@@ -13,7 +13,7 @@ Clone this repo and work locally. Be sure to push the final version of your code
 
 1. Resources to support this assignment are provided below in the Resources section.  
 
-1. Create a GitHub Page for your repo and add the link to it above where you see `[https://ds4200-s23-class.github.io/ic-05-jethro-r-lee/]`. 
+1. Create a GitHub Page for your repo and add the link to it above where you see `[]`. 
 
 1. Open the index.html file included in your repo. Please do the following: 
    - Title your webpage "ic-05". 
